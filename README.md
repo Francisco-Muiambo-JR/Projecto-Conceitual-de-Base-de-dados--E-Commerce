@@ -1,0 +1,1 @@
+Este repositório contém o modelo conceitual de uma base de dados destinada a um sistema de e-commerce. O modelo foi projetado para capturar e organizar todas as entidades e relacionamentos necessários para suportar as operações de um site de comércio eletrônico.
